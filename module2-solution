@@ -1,0 +1,10 @@
+bodt {background-color:black;
+margin:992px;
+padding:999px;
+}
+header{background-color:blue;
+front-size:100px;
+}
+button {border-top:indianred;
+border-left:indianred;color:yellow;
+
