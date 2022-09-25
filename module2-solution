@@ -1,0 +1,14 @@
+bodt {background-color:black;
+margin:992px;
+padding:999px;
+}
+header{background-color:blue;
+front-size:100px;
+}
+button {border-top:indianred;
+border-left:indianred;color:yellow;
+}
+h1{background-color:orange;
+outline-color:yellow;
+front-size:30px;}
+footer{background:orange;}
